@@ -1,0 +1,18 @@
+{
+    "type": "package",
+    "source-directories": [
+        "src"
+    ],
+    "version": "1.0.0",
+    "name": "changlinli/zokka-basic-custom-dependency-example",
+    "summary": "A fun little package demonstrating Zokka capabilities for custom dependencies",
+    "license": "BSD-3-Clause",
+    "elm-version": "0.19.0 <= v < 0.20.0",
+    "exposed-modules": [
+        "ZokkaBasicCustomDependency"
+    ],
+    "dependencies": {
+	"elm/core": "1.0.0 <= v < 2.0.0"
+    },
+    "test-dependencies": {}
+}

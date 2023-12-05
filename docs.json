@@ -1,0 +1,1 @@
+[{"name":"ZokkaBasicCustomDependency","comment":"\n\n# A new custom value to use in your package\n\n@docs aCustomValue\n\n","unions":[],"aliases":[],"values":[{"name":"aCustomValue","comment":" A fun little custom number. (It's just 1000)\n","type":"Basics.Int"}],"binops":[]}]
